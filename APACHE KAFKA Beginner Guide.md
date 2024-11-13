@@ -708,15 +708,14 @@ Here are a few simple project ideas that are perfect for beginners learning Kafk
    - Visualize the data using a dashboard (e.g., Grafana) or trigger alerts if there are any abnormal spikes in user activity.
 
 #### **Outcome:**
-- You’ll have a **real-time
-
- user activity tracking** system using Kafka, which can be extended to more advanced analytics and even personalized recommendations.
+- You’ll have a **real-time user activity tracking** system using Kafka, which can be extended to more advanced analytics and even personalized recommendations.
 
 ---
 
 ### **Conclusion**
 
 These beginner-level Kafka projects will give you practical experience with streaming data and applying real-time processing principles. As you progress, you can expand these projects to include more advanced features, like **Kafka Streams** for real-time processing, or integrate with other tools and systems for analytics, monitoring, and visualization.
+
 
 
 
