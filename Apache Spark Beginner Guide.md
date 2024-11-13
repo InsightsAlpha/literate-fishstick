@@ -1,3 +1,6 @@
+_ - _  Connect with me -->  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alphasatyamkumar)  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam)  
+
+
 If you're just starting with **Apache Spark**, it's important to build a solid foundation by understanding its core concepts and gradually exploring more advanced topics. Apache Spark is a powerful open-source framework for big data processing, and it supports a variety of programming languages (Scala, Java, Python, and R). It is widely used for data processing, machine learning, stream processing, and more.
 
 ### 1. **Understanding Apache Spark's Key Concepts**
@@ -651,3 +654,10 @@ These projects will give you hands-on experience with different aspects of Apach
 By completing these projects, you'll not only gain practical knowledge of Spark but also build a portfolio of work that showcases your abilities to potential employers. Happy coding!
 
 
+
+
+
+
+
+#### 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alphasatyam) 
