@@ -1,4 +1,4 @@
-### **Apache Kafka Learning Guide for Beginners**   
+## **Apache Kafka Learning Guide for Beginners**  _ - _  Connect with me -->  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alphasatyamkumar)  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam)  
 Apache Kafka is a distributed event streaming platform designed for high-throughput, fault-tolerant, and scalable real-time data streaming and processing. It is widely used for building real-time data pipelines, streaming analytics, and event-driven architectures. This guide will take you through the basics of Kafka, starting from installation and core concepts to practical examples.
 
 ---
@@ -454,7 +454,7 @@ These advanced topics will help you build robust, scalable, and production-grade
 
 Happy learning and building with Apache Kafka! If you have any questions or need further clarification, feel free to ask.
 
-### **Beginner Apache Kafka Project Ideas**  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam)  
+### **Beginner Apache Kafka Project Ideas**  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alphasatyamkumar) 
 
 Once you have a basic understanding of Apache Kafka, it's time to apply your knowledge to real-world projects. These beginner-level projects will help you get hands-on experience in working with Kafka, whether it's for data streaming, real-time analytics, or building event-driven applications.
 
@@ -720,5 +720,9 @@ These beginner-level Kafka projects will give you practical experience with stre
 
 
 
-## 💰 You can help me by Donating
+
+
+
+
+#### 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AlphaSatyam) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alphasatyam) 
